@@ -7,7 +7,7 @@ This repository contains implementations of the classic "Snake Game" built on th
 
 ## Projects Structure
 
-### **1. Uno_OLED_4Btn**
+### **1. OLED_4Btn**
 - **Description**: A simple implementation of Snake using an OLED display and four buttons for directional control.
 - **Hardware Components**:
   - Arduino Uno
