@@ -73,7 +73,11 @@ To install:
 2. Search for the library name and click `Install`.
 
 ---
+## Demo Video
 
+You can watch the demo of this project on YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/WVFBBT0bwIA" frameborder="0" allowfullscreen></iframe>
 ## Future Additions
 - Implementing Snake on other platforms such as ESP32 or Raspberry Pi Pico.
 - Adding difficulty levels and score tracking.
