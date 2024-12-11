@@ -75,8 +75,7 @@ To install:
 ---
 ## Demo Video
 
-You can [watch the demo of this project on YouTube](https://www.youtube.com/shorts/WVFBBT0bwIA)
-
+You can [watch the demo of this project on YouTube](https://www.youtube.com/shorts/sZh_iWgLqNc)
 
 ## Future Additions
 - Implementing Snake on other platforms such as ESP32 or Raspberry Pi Pico.
