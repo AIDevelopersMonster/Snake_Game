@@ -76,6 +76,8 @@ To install:
 ## Demo Video
 
 You can watch the demonstration video on YouTube:
+
+
 [![Watch the Demo](https://img.youtube.com/vi/sZh_iWgLqNc/0.jpg)](https://www.youtube.com/shorts/sZh_iWgLqNc)
 
 Click the image to open the video in a new tab.
